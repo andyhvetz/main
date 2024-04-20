@@ -1,3 +1,3 @@
 # select
 # npm install
-# nvm use 18.1.1
+# nvm use 18.1.0
